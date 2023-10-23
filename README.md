@@ -18,4 +18,4 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O código foi finalizado conforme solicitado. Com todas as tasks feitas e encontra-se completamente operacional. Foram adicionadas as funções de verificação da quantidade de pessoas se hospedando, o método para obter a quantidade de hóspedes e o método para se calcular o valor da diária, assim como a verificação com finalidade de fornecer um desconto de 10% no valor da diária caso os hóspedes optem por uma estadia mais prolongada (a partir de 10 dias).
